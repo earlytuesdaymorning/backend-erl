@@ -1,14 +1,14 @@
 [
   {
-    "name": "project1",
-    "live": "https://app.herokuapp.com/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "name": "Doki-doki Kawaii Dress-up Time",
+    "live": "https://dokidokikawaiidressuptime.netlify.app/",
+    "git": "https://github.com/earlytuesdaymorning/doki-doki-kawaii-dress-up-time",
+    "image": "https://camo.githubusercontent.com/69d3632dddc71a0f8bf91f9dc530660f0953008bd2589b9d0c24515eb497e1d9/68747470733a2f2f696d61676573322e696d67626f782e636f6d2f34622f64632f394c384e326768715f6f2e706e67"
   },
   {
-    "name": "project2",
-    "live": "https://app.netlify.app/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "name": "Treasury Terrene",
+    "live": "https://treasury-terrene.herokuapp.com/",
+    "git": "https://github.com/earlytuesdaymorning/treasury-terrene",
+    "image": "https://camo.githubusercontent.com/f71f3b0be5f29954985af728e63d878dd3cc7e00015b8d186809c92ea10f79e5/68747470733a2f2f696d61676573322e696d67626f782e636f6d2f61372f31362f68524656395666435f6f2e706e67"
   }
 ]

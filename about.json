@@ -1,6 +1,9 @@
 {
-  "name": "Bob Smith",
-  "email": "Bob@BobSmith.dev",
-  "headshot": "http://www.imgur.com/pictureofproject.png",
-  "bio": "Bob Smith graduated from General Assembly in 2017. Afterwords, he went to work for XYZ Technologies where he maintained a full stack application using Meteor and Ember. He also recently started started learning Prolog, cause why not waste time."
+  "name": "Tuesday Hernandez",
+  "email": "rahrah93@gmail.com",
+  "headshot": "https://avatars.githubusercontent.com/u/103902925?v=4",
+  "bio1": "Professionally, I have worked in retail and customer service for 8 years. In that industry, I met lots of different people from all walks of life and learned how to really connect with my fellow human.",
+  "bio2": "I worked for Home Depot for more than 5 of those years and earned several awards for customer service during my time there. I additionally learned how to sell in several different departments such as flooring, window coverings, paint, and the front-end. I learned these skills in under two years, so I had to adapt by learning new skills required for performing well very quickly. This gave me an eye for design and taught me how to work with customers to get them, not only the product they want but also the product they need. I have also worked in management for a few years, overseeing a team of cashiers and training new hires.",
+  "bio3": "I have been interested in coding since I was a teenager, teaching myself HTML and CSS in my room so I can make my social media pretty. After losing my home in New Jersey, I moved back to where I came from in Arizona and decided to follow my passion in tech.",
+  "bio4": "I am currently going through a coding boot camp with General Assembly, I've already learned JavaScript, along with jQuery, Node.js, and React, and about to learn Python as a second language. With these skills, I think I would make an excellent addition to any team and I am excited to be a part of something I love."
 }
